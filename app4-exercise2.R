@@ -2,8 +2,7 @@
 
 # STEP 2: change the slider input to a numeric input (see https://shiny.posit.co/r/components/)
 
-# STEP 3: add a selectize (single) input for the fill color in the histogram
-# (see https://shiny.posit.co/r/components/)
+# STEP 3: add a select input for the fill color in the histogram
 # Provide the following color options for users to select from:
 # Yellow - R color is "darkgoldenrod"
 # Blue - R color is "steelblue"
