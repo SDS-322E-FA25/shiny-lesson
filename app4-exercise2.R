@@ -2,7 +2,7 @@
 
 # STEP 2: change the slider input to a numeric input (see https://shiny.posit.co/r/components/)
 
-# STEP 3: add radio buttons (as an input component) for the fill color in the histogram
+# STEP 3: add a selectize (single) input for the fill color in the histogram
 # (see https://shiny.posit.co/r/components/)
 # Provide the following color options for users to select from:
 # Yellow - R color is "darkgoldenrod"
